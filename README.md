@@ -2,7 +2,7 @@ Nothing much to say.  Just pulling my hair out trying to learn, Gatsby, React, G
 giving up, honestly.  Most of my repos are broken.  As in I can't push or pull them anymore.  If I were you, I wouldn't 
 even bother looking in there.  
 
-If you must, the two pinned repos are not broken as of this writing.  Beyond there, you're on your own.  Good luk!
+If you must, the two pinned repos are not broken as of this writing.  Beyond there, you're on your own.  Good luck!
 
 <!---
 - 👋 Hi, I’m @caldwmark
