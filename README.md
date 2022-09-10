@@ -1,15 +1,14 @@
-Nothing much to say.  Just pulling my hair out trying to learn, Gatsby, React, Git, Sanity, and Sass.  Thinking of just 
-giving up, honestly.  Most of my repos are broken.  As in I can't push or pull them anymore.  If I were you, I wouldn't 
-even bother looking in there.  
 
-If you must, the two pinned repos are not broken as of this writing.  Beyond there, you're on your own.  Good luck!
+- 👋 Hi, I’m Mark
+- 👀 I’m interested in Web Dev and Docker, 
+- 🌱 I’m currently learning React, Next, Sanity, and Sass 
+- 💞️ I’m looking to collaborate on any projects
+- 📫 How to reach me ... coming soon
 
-<!---
-- 👋 Hi, I’m @caldwmark
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm kinda starting to get a handle on things here!
+
+The pinned repos are not broken as of this writing.  Beyond there, you're on your own.  I will do some purging soon, 
+keeping only the good ones. Good luck!
 
 <!---
 caldwmark/caldwmark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
